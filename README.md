@@ -15,5 +15,5 @@ Code:
 2_ELGANcordmetals_multimetals_DESeq2: identifying DEGs in relation to metal mixtures (principal components) 
 3_ELGANcordmetals_WGCNA_generatemodules: generating gene networks using WGCNA
 4_ELGANcordmetals_WGCNA_singlemetals_regressions: identifying gene networks associated with individual metals
-5_ELGANcordmetals_WGCNA_multimetals_qgcomp: identifying gene networks associated with metal mixtures (quantile based g-computation) 
+5_ELGANcordmetals_WGCNA_multimetals_qgcomp: identifying gene networks associated with metal mixtures (quantile based g-computation)
 6_ELGANcordmetals_connectiontopheno: evaluating correlations between metal mixture responsive genes and gene networks and neonatal phenotypes 
